@@ -1297,7 +1297,7 @@ function _typeof(e) {
                 },
                 this.getVisibleDimensions(),
                 this.loader = new oe.a;
-                var o = [this.promiseFBXLoader("/models/cup.fbx"), this.textureLoader.load("/images/material/base.jpg"), this.textureLoader.load("/images/material/normal.jpg"), this.textureLoader.load("/images/material/roughness.jpg"), this.textureLoader.load("/images/material/ao.jpg")];
+                var o = [this.promiseFBXLoader("./models/cup.fbx"), this.textureLoader.load("/images/material/base.jpg"), this.textureLoader.load("/images/material/normal.jpg"), this.textureLoader.load("/images/material/roughness.jpg"), this.textureLoader.load("/images/material/ao.jpg")];
                 Promise.all(o).then(function(e) {
                     n.cup = e[0],
                     n.textureMap = e[1],
