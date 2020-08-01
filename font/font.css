@@ -1,0 +1,115 @@
+body {
+background: #121212;
+    color: #fff;
+
+    font-size: 40px;
+    font-feature-settings: "kern";
+    font-kerning: normal;
+    line-height: 1;
+    text-rendering: optimizeLegibility;
+    font-variant-ligatures: common-ligatures;
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    margin: 30vh;
+font-size: 2.5rem;
+}
+
+.outline {
+    color: #fff;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: .5px;
+    -webkit-text-stroke-color: #fff;
+}
+
+@font-face{
+    font-family: TTNorms-Regular;
+    src:url(./TTNorms-Regular.otf);
+    src:url(./TTNorms-Regular.otf) format("opentype");
+}
+@font-face{
+    font-family: TTCommons-Medium;
+    src:url(./TTCommons-Medium.woff) format("woff");
+}
+
+@font-face{
+    font-family: GothaProMed;
+    src:url(./GothaProMed.otf) format("opentype");
+}
+
+
+@font-face{
+    font-family: TTNorms-Heavy;
+    src:url(./TTNorms-Heavy.woff) format("woff");
+}
+
+@font-face{
+    font-family: TTHoves-Black;
+    src:url(./TTHoves-Black.woff) format("woff");
+}
+
+@font-face{
+    font-family: DrukCyr-Heavy;
+    src:url(./DrukCyr-Heavy.woff) format("woff");
+}
+
+
+
+@font-face{
+    font-family: GraphikLCG-Super;
+    src:url(./GraphikLCG-Super.woff) format("woff");
+}
+
+
+@font-face{
+    font-family: FuturaPT-Demi;
+    src:url(./FuturaPT-Demi.woff) format("woff");
+}
+
+
+@font-face{
+    font-family: ObjectSans-Heavy;
+    src:url(./ObjectSans-Heavy.otf) format("opentype");
+}
+
+
+
+@font-face{
+    font-family: Jost-800-Hevy;
+    src:url(./Jost-800-Hevy.otf) format("opentype");
+}
+
+
+@font-face{
+    font-family: Lack-Regular;
+    src:url(./Lack-Regular.woff) format("woff");
+}
+/*ROBOTO*/
+
+
+@font-face{
+    font-family: Fivosansmodernheavy;
+    src:url(./Fivosansmodernheavy.woff) format("woff");
+}
+
+
+
+@font-face{
+    font-family: Adieu-Regular;
+    src:url(./Adieu-Regular.woff) format("woff");
+}
+
+@font-face{
+    font-family: Grtsk-Zetta-Bold;
+    src:url(./Grtsk-Zetta-Bold.ttf) format("woff");
+}
+
+@font-face{
+    font-family: PFGrandGothik-VF;
+    src:url(./PFGrandGothik-VF.ttf) format("woff");
+}
+
+DrukCyr-Heavy
+@font-face{
+    font-family: DrukCyr-Heavy;
+    src:url(./DrukCyr-Heavy.woff) format("woff");
+}
